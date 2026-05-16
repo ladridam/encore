@@ -1,8 +1,7 @@
 # Encore
 
 A modern community-centered platform designed to connect retired professionals with meaningful mentorship and flexible local skill-sharing opportunities.
-
-![Encore Preview](./assets/previews/hero.png)
+View at: https://encore-seven.vercel.app/
 
 ---
 
