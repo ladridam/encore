@@ -3,6 +3,7 @@
 A modern community-centered platform designed to connect retired professionals with meaningful mentorship and flexible local skill-sharing opportunities.
 View at: https://encore-seven.vercel.app/
 
+![Encore Preview](./assets/landingPage-screenshot.png)
 ---
 
 ## Overview
